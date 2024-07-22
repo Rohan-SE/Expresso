@@ -1,5 +1,5 @@
 {
-  "name": "@Express/expresso",
+  "name": "@Expresso/expresso",
   "version": "1.0",
   "main": "expresso.js",
   "scripts": {
