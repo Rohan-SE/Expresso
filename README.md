@@ -1,4 +1,4 @@
-# Expresso
+# Expressify/Expresso
 
 This library provides a quick setup for express
 . 
@@ -8,7 +8,7 @@ This library provides a quick setup for express
 Use the package manager [npm](https://www.npmjs.com/) to install Expresso.
 
 ```bash
-npm install @Expresso/expresso
+npm install @expressify/expresso
 ```
 
 ## Usage
