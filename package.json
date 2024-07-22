@@ -1,9 +1,13 @@
 {
-  "name": "@Expresso/expresso",
+  "name": "@expresso/expresso",
   "version": "1.0.0",
   "main": "expresso.js",
   "scripts": {
 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohan-SE/Expresso.git"
   },
   "keywords": [
     "expresso"
@@ -15,5 +19,10 @@
     "express": "^4.19.2",
     "morgan": "^1.10.0",
     "winston": "^3.13.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Rohan-SE/Expresso/issues"
+  },
+  "homepage": "https://github.com/Rohan-SE/Expresso#readme"
+
 }
