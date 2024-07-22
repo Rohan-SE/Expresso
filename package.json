@@ -2,12 +2,10 @@
   "name": "@expresso/expresso",
   "version": "1.0.0",
   "main": "expresso.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rohan-SE/Expresso.git"
+    "url": "git+https://github.com/Rohan-SE/Expresso.git"
   },
   "keywords": [
     "expresso"
@@ -24,5 +22,4 @@
     "url": "https://github.com/Rohan-SE/Expresso/issues"
   },
   "homepage": "https://github.com/Rohan-SE/Expresso#readme"
-
 }
