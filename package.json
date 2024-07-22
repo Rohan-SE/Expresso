@@ -1,0 +1,19 @@
+{
+  "name": "expresso",
+  "version": "1.0",
+  "main": "expresso.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "expresso"
+  ],
+  "author": "Rohan-SE",
+  "license": "MIT",
+  "description": "Expresso for express",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "winston": "^3.13.1"
+  }
+}
