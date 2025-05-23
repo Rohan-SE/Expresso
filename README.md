@@ -14,7 +14,7 @@ npm install @expressify/expresso
 ## Usage
 ### main.js
 ```
-const { expresso, setMiddleware, setVals, serveStaticFiles } = require('@Expresso/expresso');
+const { expresso, setMiddleware, setVals, serveStaticFiles } = require('@expressify/expresso');
 const {middlewares} = require('your-path/setMiddlewares.js');
 const {vals} = require('your-path/setVals.js');
 
